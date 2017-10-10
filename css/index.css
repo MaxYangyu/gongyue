@@ -15,7 +15,7 @@ header span {
   line-height: 0.48rem;
   margin: 0 0.42rem;
   padding-bottom: 0.8rem;
-  border-bottom: 0.01rem solid #845ACF;
+  border-bottom: 0.01rem solid rgba(255, 255, 255, 0.35);
 }
 .img .img-left {
   position: relative;
@@ -58,7 +58,7 @@ header span {
 }
 .yaoqiu ul {
   margin: 0 0.42rem;
-  border-bottom: 0.01rem solid #845ACF;
+  border-bottom: 0.01rem solid rgba(255, 255, 255, 0.35);
 }
 .yaoqiu ul li {
   color: #fff;
@@ -71,7 +71,7 @@ header span {
   padding-bottom: 0.8rem;
 }
 .yaoqiu ul .mb {
-  padding-bottom: 1.5rem!important;
+  padding-bottom: 1.5rem !important;
 }
 .img-three {
   width: 1.44rem;
@@ -84,8 +84,8 @@ header span {
   top: 0;
 }
 .big {
-  width: 2.2rem!important;
-  height: 0.5rem!important;
+  width: 2.2rem !important;
+  height: 0.5rem !important;
 }
 footer {
   height: 1rem;
